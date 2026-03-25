@@ -1,0 +1,17 @@
+Topic: UPI QR Code Scam: A Case Study on Social Engineering
+
+What the Crime Is:
+UPI (Unified Payments Interface) fraud, specifically the "QR Code Scam," is a form of financial cybercrime where attackers use social engineering to trick victims into authorizing a debit from their bank account under the guise of receiving money.
+
+Step-by-Step Execution:
+1. Initial Contact: The fraudster finds a victim on an online marketplace (like OLX) or social media where the student is selling an item.
+2. Building Trust: The attacker agrees to the full price immediately to prevent the victim from being suspicious.
+3. The Trap: The attacker sends a QR code via WhatsApp, claiming it is a "Payment Request" to send money to the victim.
+4. The Action: The victim is told to "Scan and enter your UPI PIN" to receive the payment.
+5. The Theft: In reality, entering a UPI PIN is only required for sending/authorizing a debit. Once the victim enters the PIN, money is instantly transferred from their account to the fraudster.
+
+Target Audience:
+College students and young adults who frequently use digital payment apps for P2P (Peer-to-Peer) transactions or online selling.
+
+Consequences:
+The immediate consequence is a total loss of the transacted funds, which are often difficult to recover due to the instantaneous nature of UPI. Secondary consequences include psychological stress and the risk of the fraudster using the victim's phone number for further phishing attempts.
