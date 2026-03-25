@@ -1,0 +1,15 @@
+Stay Safe Online: A Guide for Students
+
+As a Student Digital Ambassador, I recommend following these 8 actionable steps to secure your digital life:
+1. The Golden UPI Rule: Never enter your UPI PIN to receive money. A PIN is only required to send money or check your balance.
+2. Verify Before You Pay: Always double-check the name of the recipient in your UPI app before hitting 'Send'. Fraudsters often use names that look like official entities.
+3. Enable Multi-Factor Authentication (MFA): Use an authenticator app or hardware key for your primary email and GitHub accounts to add a layer of security beyond just a password.
+4. Avoid Public Wi-Fi for Banking: Never log into your student portal or bank account using open canteen or station Wi-Fi; use a secure mobile hotspot instead.
+5. Audit App Permissions: Regularly check which apps have access to your microphone, camera, and contacts. Delete any "free" apps that ask for unnecessary permissions.
+6. Practice Link Skepticism: Hover over links in emails to see the actual URL. If it doesn't match the official domain (e.g., vitbhopal.ac.in), do not click it.
+7. Use a Password Manager: Stop using the same password for Instagram, GitHub, and your Bank. Use a manager to generate and store unique, complex passwords.
+8. Update Software Immediately: When your OS or browser notifies you of a security update, install it right away. These often patch "Zero-Day" vulnerabilities that hackers use to gain entry.
+
+How to Report Cybercrime in IndiaIf you or a friend have been a victim of online fraud, act immediately:
+- National Cyber Crime Portal: https://cybercrime.gov.in
+- National Helpline: Dial 1930 (24x7)
