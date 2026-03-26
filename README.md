@@ -46,7 +46,7 @@ Researched modern online threats to educate peers on prevention strategies, focu
 * `/task-3-platforms/`: Coding badges and Google Form proof.
 * `/task-4-email-etiquette/`: Email drafts and social media checklist.
 * `/task-5-cybercrime/`: Cybercrime case study and prevention guide.
-* `/report/`: Final comprehensive Project Report (PDF/DOCX).
+* `/Digital_Literacy_Project_Report.pdf`: Final comprehensive Project Report (PDF/DOCX).
 
 ---
 
